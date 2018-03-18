@@ -22,7 +22,7 @@ body {   font-family: Helvetica, san-serif;
     width: 300px;
 }
 .card:hover {
-    height: 450px;
+    height: auto;
     width: 300px;
 }
 .card:hover .cta-container {
@@ -250,7 +250,7 @@ body {   font-family: Helvetica, san-serif;
     width: 300px;
 }
 .card:hover {
-    height: 550px;
+    height: 650px;
     width: 300px;
 }
 .card:hover .cta-container {
